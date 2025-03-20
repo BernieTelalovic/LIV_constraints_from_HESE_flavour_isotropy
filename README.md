@@ -1,5 +1,6 @@
 # LIV constraints from HESE flavour isotropy
-This repository holds the .csv file containing constraints on LIV operators from the Standard Model Extension, dimensions 2,..., 8, for 68%, 95% and 99% confidence levels.
+
+This repository is a companion to the pre-print: https://arxiv.org/abs/2503.15468 and holds the .csv file containing constraints on LIV operators from the Standard Model Extension, dimensions 2,..., 8, for 68%, 95% and 99% confidence levels.
 
 The columns of the resulting tables are:
  - 'd' [int]: the dimension of the operator. Takes values 2, ... , 8.
